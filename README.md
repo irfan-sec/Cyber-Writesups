@@ -1,25 +1,13 @@
-# Cyber-Writesups
+# My Cybersecurity Write-ups
 
-# TryHackMe Write-up:
+Welcome to my collection of cybersecurity write-ups!
 
-This repository contains my official write-up for the room on the TryHackMe platform.
+This repository serves as a living document of my hands-on learning journey. Here, you will find detailed walkthroughs and notes from the various machines and challenges I have completed on platforms like **Hack The Box** and **TryHackMe**.
 
-- **Platform:** TryHackMe
-- **Room Link:** 
-- **Difficulty:** 
----
+My goal is to clearly document my methodology for each challenge, including:
+- **Enumeration:** How I gather initial information.
+- **Gaining Access:** The steps taken to get an initial foothold.
+- **Privilege Escalation:** The techniques used to gain administrative control.
+- **Lessons Learned:** Key takeaways and security principles from each box.
 
-### Summary
-
-In this challenge, I practiced  web application enumeration and privilege escalation. The process involved finding a vulnerable web service, gaining an initial foothold, and then escalating privileges to root.
-
-### Tools Used
-
-* Nmap
-* GoBuster
-* Metasploit
-* LinPeas
-
-### Lessons Learned
-
-This room was a great refresher on the importance of checking for kernel exploits during privilege escalation. I also learned a new technique for reverse shell stabilization.
+Feel free to browse the files to see my work. Each completed machine has its own dedicated `.md` file.
