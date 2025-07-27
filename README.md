@@ -2,7 +2,7 @@
 
 # TryHackMe Write-up:
 
-This repository contains my official write-up for the "[Name of the Room]" room on the TryHackMe platform.
+This repository contains my official write-up for the room on the TryHackMe platform.
 
 - **Platform:** TryHackMe
 - **Room Link:** 
