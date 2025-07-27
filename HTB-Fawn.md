@@ -23,7 +23,6 @@ The first step was to perform a port scan to identify open services on the targe
 **Results:**
 The scan revealed that port 21 was open and running the Telnet service.
 
-*(Here you could also paste the relevant part of your nmap scan output if you want)*
 
 ---
 
