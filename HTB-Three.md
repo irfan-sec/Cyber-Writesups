@@ -49,3 +49,4 @@ After downloading the file from the S3 bucket, I read its contents to retrieve t
 ### Lessons Learned
 
 This machine is a critical lesson in cloud security fundamentals. S3 buckets and other cloud storage must have strict, private-by-default permissions. Allowing public, anonymous `List` and `Read` access is a major security flaw that can lead to significant data exposure for an organization.
+S3 Buckets are a cloud storage service from AWS. I learned that they can be misconfigured to allow public access, which is a major security risk. In the "Three" challenge, I used the awscli tool to list files (aws s3 ls) and download files (aws s3 cp) from an open S3 bucket to find the flag
