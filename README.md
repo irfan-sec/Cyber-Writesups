@@ -20,7 +20,7 @@
 | 📈 **Metric** | 🔢 **Count** |
 |:---------------|:------------:|
 | 🎯 **Total Machines** | 13 |
-| 📄 **Total Lines of Code** | 871+ |
+| 📄 **Total Lines of Code** | 938+ |
 | 🏆 **Platforms Covered** | Hack The Box |
 | 🎓 **Difficulty Range** | Very Easy → Easy |
 | ⭐ **Completion Rate** | 100% |
@@ -53,8 +53,8 @@ Each write-up follows a structured methodology covering:
 
 | 🎯 **Machine** | 📊 **Difficulty** | 🎪 **Tier** | 📊 **Lines** | 🔗 **Write-up** |
 |:---------------|:------------------|:-------------|:-------------|:-----------------|
-| 🐱 Meow | Very Easy | - | 50 | [📖 Read](./HTB-Meow.md) |
-| 🦌 Fawn | Very Easy | - | 55 | [📖 Read](./HTB-Fawn.md) |
+| 🐱 Meow | Very Easy | - | 105 | [📖 Read](./HTB-Meow.md) |
+| 🦌 Fawn | Very Easy | - | 95 | [📖 Read](./HTB-Fawn.md) |
 | 💃 Dancing | Very Easy | Tier 2 | 54 | [📖 Read](./HTB-Dancing.md) |
 | 🔄 Redeemer | Very Easy | Tier 3 | 47 | [📖 Read](./HTB-Redeemer.md) |
 | 💥 Explosion | Very Easy | Tier 4 | 75 | [📖 Read](./HTB-Explosion.md) |
@@ -66,7 +66,7 @@ Each write-up follows a structured methodology covering:
 
 | 🎯 **Machine** | 📊 **Difficulty** | 🎪 **Tier** | 📊 **Lines** | 🔗 **Write-up** |
 |:---------------|:------------------|:-------------|:-------------|:-----------------|
-| 📅 Appointment | Easy | Tier 1 | 98 | [📖 Read](./HTB-Appointment.md) |
+| 📅 Appointment | Easy | Tier 1 | 83 | [📖 Read](./HTB-Appointment.md) |
 | 📊 Sequel | Easy | Tier 1 | 56 | [📖 Read](./HTB-Sequel.md) |
 | 🏛️ Archetype | Easy | Tier 2 | 56 | [📖 Read](./HTB-Archetype.md) |
 | 📞 Responder | Easy | Tier 4 | 59 | [📖 Read](./HTB-Responder.md) |
