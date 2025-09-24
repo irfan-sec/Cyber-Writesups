@@ -20,7 +20,7 @@
 | 📈 **Metric** | 🔢 **Count** |
 |:---------------|:------------:|
 | 🎯 **Total Machines** | 13 |
-| 📄 **Total Lines of Code** | 1,182+ |
+| 📄 **Total Lines of Code** | 1,479+ |
 | 🏆 **Platforms Covered** | Hack The Box |
 | 🎓 **Difficulty Range** | Very Easy → Easy |
 | ⭐ **Completion Rate** | 100% |
@@ -68,9 +68,9 @@ Each write-up follows a structured methodology covering:
 |:---------------|:------------------|:-------------|:-------------|:-----------------|
 | 📅 Appointment | Easy | Tier 1 | 83 | [📖 Read](./HTB-Appointment.md) |
 | 📊 Sequel | Easy | Tier 1 | 145 | [📖 Read](./HTB-Sequel.md) |
-| 🏛️ Archetype | Easy | Tier 2 | 56 | [📖 Read](./HTB-Archetype.md) |
+| 🏛️ Archetype | Easy | Tier 2 | 223 | [📖 Read](./HTB-Archetype.md) |
 | 📞 Responder | Easy | Tier 4 | 59 | [📖 Read](./HTB-Responder.md) |
-| 3️⃣ Three | Easy | Tier 5 | 52 | [📖 Read](./HTB-Three.md) |
+| 3️⃣ Three | Easy | Tier 5 | 182 | [📖 Read](./HTB-Three.md) |
 
 </div>
 
