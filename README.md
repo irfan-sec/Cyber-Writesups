@@ -184,5 +184,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Last Updated**: December 2024 | **Total Machines Completed**: 13 | **Next Target**: TryHackMe Challenges
+**If you want to contribute feel free to reach out!
 
 </div>
